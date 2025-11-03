@@ -24,7 +24,7 @@ export function Hero({ profile }: HeroProps) {
             <p className="text-lg text-[var(--color-text-secondary)] font-medium">
               안녕하세요, 저는
             </p>
-            <h1 className="text-5xl md:text-7xl font-bold text-[var(--color-text-primary)]">
+            <h1 className="text-5xl md:text-7xl font-bold text-green-600">
               {profile.name}
             </h1>
             <p className="text-2xl md:text-3xl text-[var(--color-text-secondary)] font-medium">
