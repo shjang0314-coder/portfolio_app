@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "name": "Frontend",
+      "skills": [
+        { "name": "React", "level": 3, "lastUsed": "2024" },
+        { "name": "Next.js", "level": 3, "lastUsed": "2024" },
+        { "name": "TypeScript", "level": 3, "lastUsed": "2024" },
+        { "name": "Tailwind CSS", "level": 3, "lastUsed": "2024" },
+        { "name": "Vue.js", "level": 2, "lastUsed": "2023" }
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        { "name": "Node.js", "level": 3, "lastUsed": "2024" },
+        { "name": "Python", "level": 2, "lastUsed": "2024" },
+        { "name": "PostgreSQL", "level": 3, "lastUsed": "2024" },
+        { "name": "MongoDB", "level": 2, "lastUsed": "2023" }
+      ]
+    },
+    {
+      "name": "DevOps",
+      "skills": [
+        { "name": "Docker", "level": 3, "lastUsed": "2024" },
+        { "name": "AWS", "level": 2, "lastUsed": "2024" },
+        { "name": "GitHub Actions", "level": 3, "lastUsed": "2024" },
+        { "name": "Vercel", "level": 3, "lastUsed": "2024" }
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        { "name": "Git", "level": 3, "lastUsed": "2024" },
+        { "name": "Figma", "level": 2, "lastUsed": "2024" },
+        { "name": "VS Code", "level": 3, "lastUsed": "2024" }
+      ]
+    }
+  ]
+}
+
+

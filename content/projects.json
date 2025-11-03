@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "엔터프라이즈 대시보드 플랫폼",
+      "category": "Web Application",
+      "description": "실시간 데이터 분석과 시각화를 제공하는 B2B SaaS 대시보드",
+      "role": "Lead Frontend Developer",
+      "stacks": ["Next.js", "TypeScript", "TanStack Query", "Recharts", "Tailwind CSS"],
+      "problem": "복잡한 데이터를 직관적으로 시각화하고, 대용량 데이터 처리 시 성능 저하 문제",
+      "solution": "가상 스크롤링과 데이터 청킹으로 렌더링 최적화, React.memo와 useMemo를 활용한 불필요한 리렌더링 방지",
+      "result": "MAU 50만+ 달성, 페이지 로딩 속도 40% 개선, 사용자 만족도 85% 향상",
+      "links": {
+        "demo": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "project-2",
+      "title": "실시간 협업 도구",
+      "category": "Collaboration",
+      "description": "팀 협업을 위한 실시간 문서 편집 및 커뮤니케이션 플랫폼",
+      "role": "Full-Stack Developer",
+      "stacks": ["React", "Node.js", "Socket.io", "MongoDB", "Redis"],
+      "problem": "실시간 동기화와 충돌 해결, 동시 접속자 수 증가 시 서버 부하",
+      "solution": "Operational Transformation 알고리즘 구현, WebSocket 연결 풀링과 Redis를 활용한 세션 관리",
+      "result": "동시 접속자 1만명 처리 가능, 데이터 충돌률 0.01% 이하, 응답 시간 100ms 이하",
+      "links": {
+        "demo": "#"
+      }
+    },
+    {
+      "id": "project-3",
+      "title": "이커머스 플랫폼 리뉴얼",
+      "category": "E-commerce",
+      "description": "모바일 퍼스트 전자상거래 플랫폼 전면 개편",
+      "role": "Frontend Lead",
+      "stacks": ["Vue.js", "Nuxt.js", "Vuex", "SCSS"],
+      "problem": "느린 페이지 전환, 낮은 모바일 전환율, 복잡한 결제 프로세스",
+      "solution": "페이지 프리페칭과 레이지 로딩, 결제 프로세스 3단계로 단순화, 모바일 최적화 UI 개선",
+      "result": "모바일 전환율 35% 증가, 페이지 이탈률 25% 감소, 월 거래액 10억+ 달성",
+      "links": {
+        "demo": "#"
+      }
+    },
+    {
+      "id": "project-4",
+      "title": "오픈소스 UI 라이브러리",
+      "category": "Open Source",
+      "description": "접근성과 커스터마이징을 중심으로 한 React 컴포넌트 라이브러리",
+      "role": "Creator & Maintainer",
+      "stacks": ["React", "TypeScript", "Storybook", "Rollup"],
+      "problem": "기존 라이브러리의 낮은 접근성, 제한적인 커스터마이징 옵션",
+      "solution": "WAI-ARIA 가이드라인 준수, CSS 변수 기반 테마 시스템, 헤드리스 컴포넌트 패턴",
+      "result": "GitHub 스타 2.5k+, npm 주간 다운로드 1만+, 10개 이상의 프로덕션 프로젝트 적용",
+      "links": {
+        "github": "#",
+        "demo": "#"
+      }
+    }
+  ]
+}
+
+
